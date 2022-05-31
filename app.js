@@ -19,10 +19,10 @@ const item1=new Item({
   name: "Welcome to todo list"
 })
 const item2=new Item({
-  name: "Click + to add shit"
+  name: "Click + to add"
 })
 const item3=new Item({
-  name: "<-- click this to cross shit"
+  name: "<-- click this to cross"
 })
 
 const defaultItems=[item1, item2, item3];
